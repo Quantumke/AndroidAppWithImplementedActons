@@ -18,6 +18,7 @@ public class DisplayMessageActivity extends AppCompatActivity {
         textView.setTextSize(40);
         textView.setText(message);
         setContentView(textView);
+
     }
 
 

@@ -25,7 +25,7 @@
                 android:value="ml.dev2dev.starterapp.My_Activity" />
         </activity>
 
-<uses-sdk android:minSdkVersion="11"></uses-sdk>
+
     </application>
 
 </manifest>
